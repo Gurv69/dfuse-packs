@@ -1,0 +1,41 @@
+{
+ "id": "avatar3d",
+ "version": 1,
+ "minEngine": 1,
+ "licence": "free",
+ "built": "2026-10-31T19:04:00Z",
+ "parts": [
+  {
+   "id": "base",
+   "prefix": "",
+   "file": "avatar3d-base-897564bdf809.zip",
+   "size": 10943634,
+   "sha256": "897564bdf809e925bf979b1adeebbeea9e9146f757cd7b13ef15d1edca7ca65d",
+   "files": 12
+  },
+  {
+   "id": "skins",
+   "prefix": "skins/",
+   "file": "avatar3d-skins-79dd9793f881.zip",
+   "size": 17698213,
+   "sha256": "79dd9793f88107fc28ddc67f52aafba1e13067ebce02b8948a093e8f9cffb766",
+   "files": 113
+  },
+  {
+   "id": "hair",
+   "prefix": "hair/",
+   "file": "avatar3d-hair-14a06f2f69f8.zip",
+   "size": 17500424,
+   "sha256": "14a06f2f69f80b8f429b7338b9a5ce14b611c4fd13a50744ea5b42e734cdd0b5",
+   "files": 173
+  },
+  {
+   "id": "acc",
+   "prefix": "acc/",
+   "file": "avatar3d-acc-50c402235893.zip",
+   "size": 16641110,
+   "sha256": "50c402235893e5f85935c90e2a553866d762639de8e0b3971c101625d04e1692",
+   "files": 281
+  }
+ ]
+}
